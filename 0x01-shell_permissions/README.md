@@ -11,3 +11,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 10. The tenth script sets the mode of the file hello to this: -rwxr-x-wx
+11. The eleventh script sets the mode of the file hello the same as olleh’s mode.
